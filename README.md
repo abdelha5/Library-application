@@ -1,4 +1,4 @@
-![java](java.peng)
+![java](java.png)
 # Introduction
 This comprehensive library management system comprises both a user-friendly graphical interface (GUI) for 
 patrons and a robust client-server architecture for seamless data management. Utilizing the power of SQLite, 
